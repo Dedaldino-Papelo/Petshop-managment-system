@@ -1,0 +1,17 @@
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\bin\Debug\Projecto Petshop.exe.config
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\bin\Debug\Projecto Petshop.exe
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\bin\Debug\Projecto Petshop.pdb
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\obj\Debug\Projecto Petshop.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\obj\Debug\Projecto_Petshop.FrmMenu.resources
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\obj\Debug\Projecto_Petshop.frmFuncionario.resources
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\obj\Debug\Projecto_Petshop.Properties.Resources.resources
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\obj\Debug\Projecto Petshop.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\obj\Debug\Projecto Petshop.exe
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\obj\Debug\Projecto Petshop.pdb
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\obj\Debug\Projecto_Petshop.frmCliente.resources
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\obj\Debug\Projecto_Petshop.frmProdutos.resources
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\obj\Debug\Projecto_Petshop.frmHome.resources
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\obj\Debug\Projecto_Petshop.frmCategoria.resources
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\obj\Debug\Projecto_Petshop.frmLogin.resources
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\obj\Debug\Projecto_Petshop.frmVenda.resources
+C:\Users\Administrador\Documents\C# & SQL Server\Projecto Petshop\Projecto Petshop\Projecto Petshop\obj\Debug\Projecto_Petshop.Splash.resources
